@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram id="-Xb54fOpT2G8tzSmThO1" name="Page-1">
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-1" value="Upravlja sustavom" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K4hjsTkfgvEB9JjM0qK2-2" target="K4hjsTkfgvEB9JjM0qK2-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-2" value="&lt;div&gt;Administrator&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-3" value="Zahtjev za rezervaciju,&lt;div&gt;pregled termina&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4hjsTkfgvEB9JjM0qK2-4" target="K4hjsTkfgvEB9JjM0qK2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-4" value="Korisnik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-5" value="Trener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4hjsTkfgvEB9JjM0qK2-8" target="K4hjsTkfgvEB9JjM0qK2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-7" value="Plaćanje članarina" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K4hjsTkfgvEB9JjM0qK2-6">
+          <mxGeometry x="-0.428" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-8" value="Platni sustav" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-9" value="Pregled termina" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4hjsTkfgvEB9JjM0qK2-10" target="K4hjsTkfgvEB9JjM0qK2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-10" value="PO - Sustav za upravljanje sportskim centrom &quot;Sanus motus&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K4hjsTkfgvEB9JjM0qK2-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;RAZINA 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="338" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

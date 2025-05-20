@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="gHisyUy7ZCf-vVVptvik">
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Razina 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-2" target="fL2wDbXfGzQ_zxDoyWhO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-2" value="P1 Upravljanje korisnicima Registracija, evidencija" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-29" value="Pregled korisnika" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-3" target="fL2wDbXfGzQ_zxDoyWhO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-3" value="Djelatnici" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-31" value="Novi zahtjev&amp;nbsp;&lt;div&gt;korisnika za&amp;nbsp;&lt;/div&gt;&lt;div&gt;obradu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-4" target="fL2wDbXfGzQ_zxDoyWhO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-4" target="fL2wDbXfGzQ_zxDoyWhO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-4" value="P2 Upravljanje obavijestima i događajima" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-5" value="Korisnici" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-6" target="fL2wDbXfGzQ_zxDoyWhO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-6" value="P3 Obrada zahtjeva korisnika" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-7" target="fL2wDbXfGzQ_zxDoyWhO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-7" value="P4 Administracija sustava" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-8" value="P5- Upravljanje pristupima" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-9" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-15" value="Ažuriranja,&amp;nbsp;&lt;div&gt;izvještaji&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-10" target="fL2wDbXfGzQ_zxDoyWhO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-10" value="Održavanje sustava" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-26" value="Upravljanje sustavom&lt;div&gt;i pristupom&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.057;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-7" target="fL2wDbXfGzQ_zxDoyWhO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="sourcePoint" />
+            <mxPoint x="400" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fL2wDbXfGzQ_zxDoyWhO-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="fL2wDbXfGzQ_zxDoyWhO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="sourcePoint" />
+            <mxPoint x="430" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
