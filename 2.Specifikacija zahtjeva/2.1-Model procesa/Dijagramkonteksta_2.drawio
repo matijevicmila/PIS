@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.0">
+  <diagram name="Page-1" id="fgIoEb_AD2F_Mmj5pymq">
+    <mxGraphModel dx="340" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-14" value="Slanje podataka&lt;div&gt;za provjeru&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-1" target="Cbsjw-n_uihryzMB3L-N-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="180" />
+              <mxPoint x="370" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-1" value="P1.1&lt;div&gt;Unos podataka o treningu&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-7" value="Slanje podataka o&amp;nbsp;&lt;div&gt;treningu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-2" target="Cbsjw-n_uihryzMB3L-N-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-2" value="Trener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-9" value="Obavijest o greškama&lt;div&gt;(ako ih ima)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="sourcePoint" />
+            <mxPoint x="100" y="140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-15" value="Validni podaci za&amp;nbsp;&lt;div&gt;spremanje&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-3" target="Cbsjw-n_uihryzMB3L-N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-3" value="P1.2&lt;div&gt;Provjera valjanosti podataka&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-11" value="Spremanje" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-4" target="Cbsjw-n_uihryzMB3L-N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-16" value="Informacija&amp;nbsp;&lt;div&gt;o unosu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-4" target="Cbsjw-n_uihryzMB3L-N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-4" value="P1.3&lt;div&gt;Spremanje i dohvat podataka iz baze&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-18" value="Potvrda o uspješnom&lt;div&gt;&amp;nbsp;unosu&amp;nbsp;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-5" target="Cbsjw-n_uihryzMB3L-N-2">
+          <mxGeometry x="0.1724" relative="1" as="geometry">
+            <mxPoint x="210" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-5" value="P1.4&lt;div&gt;Izvještaj o unosu treninga&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-13" value="Podaci o prethodnim&amp;nbsp;&lt;div&gt;treninzima&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cbsjw-n_uihryzMB3L-N-10" target="Cbsjw-n_uihryzMB3L-N-4">
+          <mxGeometry x="0.0769" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="410" />
+              <mxPoint x="400" y="410" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbsjw-n_uihryzMB3L-N-10" value="Baza podataka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
